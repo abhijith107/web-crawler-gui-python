@@ -1,0 +1,4 @@
+fuzzywuzzy
+requests
+scrapy
+selenium
